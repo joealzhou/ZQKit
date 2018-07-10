@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "ZQKit"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "UIKit的一些扩展"
 
   # This description is used to generate tags and improve search results.
@@ -91,7 +91,7 @@ UIKit的一些扩展，方便自己快速搭建一个工程项目。
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  =  "Classes/**/*"
+  s.source_files  =  "ZQKit/Classes/**/*"
   #s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
